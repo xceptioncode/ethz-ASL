@@ -1,6 +1,8 @@
 # Advanced Systems Lab (ETH) - Submitted on Dec 2017
 ---
 
+![Architecture of ASL](/img/ASL.png)
+
 The source code are inside `asl/src` directory. Run a single command ``ant`` inside `asl` directory to compile the source code. The jar file will be available inside `asl/dist` directory. 
 
 There are four source files inside the `asl/src` directory:
