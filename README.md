@@ -1,4 +1,4 @@
-# Advanced Systems Lab (ETH)
+# Advanced Systems Lab (ETH) - Submitted on Dec 2017
 ---
 
 The source code are inside `asl/src` directory. Run a single command ``ant`` inside `asl` directory to compile the source code. The jar file will be available inside `asl/dist` directory. 
